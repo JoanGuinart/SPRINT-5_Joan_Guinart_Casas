@@ -1,0 +1,19 @@
+.card{
+    height: 10rem;
+    vertical-align: middle;
+    display: inline-table;
+    filter: drop-shadow(0 0 0.95rem rgb(150, 238, 253));
+}
+.card-body{
+    display: table-cell;
+    vertical-align: middle;
+}
+.m-2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 208, 202);
+    filter: opacity(62%);
+}
+body{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    background-image: url(https://www.gratistodo.com/wp-content/uploads/2021/10/fondos-de-colores-21.jpg);
+}
